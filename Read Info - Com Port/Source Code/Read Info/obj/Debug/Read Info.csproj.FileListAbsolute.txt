@@ -1,0 +1,9 @@
+D:\MyProj\ComPortNew\Com Port Sender - Read Info\Read Info\Read Info\bin\Debug\Read Info.exe.config
+D:\MyProj\ComPortNew\Com Port Sender - Read Info\Read Info\Read Info\bin\Debug\Read Info.exe
+D:\MyProj\ComPortNew\Com Port Sender - Read Info\Read Info\Read Info\bin\Debug\Read Info.pdb
+D:\MyProj\ComPortNew\Com Port Sender - Read Info\Read Info\Read Info\obj\Debug\Read Info.csprojResolveAssemblyReference.cache
+D:\MyProj\ComPortNew\Com Port Sender - Read Info\Read Info\Read Info\obj\Debug\Read_Info.Form1.resources
+D:\MyProj\ComPortNew\Com Port Sender - Read Info\Read Info\Read Info\obj\Debug\Read_Info.Properties.Resources.resources
+D:\MyProj\ComPortNew\Com Port Sender - Read Info\Read Info\Read Info\obj\Debug\Read Info.csproj.GenerateResource.Cache
+D:\MyProj\ComPortNew\Com Port Sender - Read Info\Read Info\Read Info\obj\Debug\Read Info.exe
+D:\MyProj\ComPortNew\Com Port Sender - Read Info\Read Info\Read Info\obj\Debug\Read Info.pdb
